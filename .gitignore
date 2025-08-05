@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Environment
+.env
+key.env
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.DS_Store
