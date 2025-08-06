@@ -138,3 +138,11 @@ Created by Prashant sahu
 git hub link 
 
 https://github.com/prs1234/movie-research-toolkit
+
+---
+
+## ✨ Add dynamic key points sidebar for user queries
+
+- Extracted concise key points from Gemini-generated answers
+- Displayed them in the sidebar for improved readability
+- Helps users quickly grasp essential movie news highlights
